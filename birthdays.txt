@@ -1,0 +1,3552 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>Famous B-Days</title>
+<meta name="robots" content="all">
+<meta name="description" content="Stan Thompson separated plutonium atomic bomb identified and named berkelium and californium">
+<meta name="keywords" content="berkelium, californium, americium, curium, plutonium separation, atomic bomb, manhattan project, Met Lab, Hanford, Technical Department, Separation Division">
+<!--mstheme--><link rel="stylesheet" type="text/css" href="_themes/sgt-theme/sgt-1111.css"><meta name="Microsoft Theme" content="sgt-theme 1111, default">
+<meta name="Microsoft Border" content="tlb, default">
+</head>
+
+<body><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<p align="center">&nbsp;
+<table border="0" width="1096" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="91" align="center">
+      <p align="center"><img border="0" src="images/rounded_test_tube.gif" width="115" height="142"><b><font size="1"><br>
+      </font></b>&nbsp;<b><font size="1">Stan Thompson</font></b></td>
+    <td width="991" rowspan="2"><map name="FPMap10_I1">
+<area href="dissertation1.htm" shape="rect" coords="142, 13, 357, 164">
+<area href="http://www.chemsoc.org/viselements/pages/data/berkelium_data.html" shape="rect" coords="356, 13, 462, 164">
+<area href="http://www.chemsoc.org/viselements/pages/data/californium_data.html" shape="rect" coords="463, 12, 565, 164">
+<area href="http://www.chemsoc.org/viselements/pages/data/einsteinium_data.html" shape="rect" coords="567, 13, 672, 164">
+<area href="http://www.chemsoc.org/viselements/pages/data/fermium_data.html" shape="rect" coords="675, 13, 773, 164">
+<area href="http://www.chemsoc.org/viselements/pages/data/mendelevium_data.html" shape="rect" coords="775, 13, 879, 164">
+<area href="http://www.chemsoc.org/viselements/pages/data/nobelium_data.html" shape="rect" coords="880, 13, 985, 164">
+<area href="T-Shirts/One%20Man's%20Family%20of%20Elements.pdf" shape="default">
+<area href="T-Shirts/One%20Man's%20Family%20of%20Elements.pdf" coords="0, 0, 10000, 10000" shape="rect"></map><img border="0" src="images/Web_Elements.gif" usemap="#FPMap10_I1" alt="Click Here to download a 1' X 4' Poster file" width="987" height="169">
+    </td>
+  </tr>
+  <tr>
+    <td width="91" align="center">
+      <p align="center"><font size="1"><i>Element Trainer</i></font></td>
+  </tr>
+</table>
+<p align="center"><b><a href="./"><img src="_derived/home_cmp_sgt-theme110_gbtn.gif" width="95" height="20" border="0" alt="Home" align="middle"></a> <a href="search.htm"><img src="_derived/search.htm_cmp_sgt-theme110_gbtn.gif" width="95" height="20" border="0" alt="Search" align="middle"></a> <a href="contents.htm"><img src="_derived/contents.htm_cmp_sgt-theme110_gbtn.gif" width="95" height="20" border="0" alt="Contents" align="middle"></a> <a href="periodic_tables.htm"><img src="_derived/periodic_tables.htm_cmp_sgt-theme110_gbtn.gif" width="95" height="20" border="0" alt="Periodic Tables" align="middle"></a></b>
+
+</td></tr><!--msnavigation--></table><!--msnavigation--><table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td valign="top" width="1%">
+
+<p align="center"><script language="JavaScript"><!--
+MSFPhover = 
+  (((navigator.appName == "Netscape") && 
+  (parseInt(navigator.appVersion) >= 3 )) || 
+  ((navigator.appName == "Microsoft Internet Explorer") && 
+  (parseInt(navigator.appVersion) >= 4 ))); 
+function MSFPpreload(img) 
+{
+  var a=new Image(); a.src=img; return a; 
+}
+// --></script><script language="JavaScript"><!--
+if(MSFPhover) { MSFPnav1n=MSFPpreload("_derived/up_cmp_sgt-theme110_vbtn.gif"); MSFPnav1h=MSFPpreload("_derived/up_cmp_sgt-theme110_vbtn_a.gif"); }
+// --></script><a href="Introduction.htm" language="JavaScript" onmouseover="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1h.src" onmouseout="if(MSFPhover) document['MSFPnav1'].src=MSFPnav1n.src"><img src="_derived/up_cmp_sgt-theme110_vbtn.gif" width="140" height="60" border="0" alt="Up" name="MSFPnav1"></a></p>
+<p align="center">&nbsp;</p>
+<p align="center"><br>
+<a href="Introduction.htm"><img border="0" src="_borders/Arms_folded_little_Stan.gif" alt="Click here to learn more about this remarkable scientist." width="113" height="271"></a><br>
+<font size="1"><b>Stan Thompson</b></font></p>
+
+</td><td valign="top" width="24"></td><!--msnavigation--><td valign="top">
+
+<p class="MsoNormal" align="left"><b><!--webbot bot="Navigation"
+s-type="siblings" s-orientation="horizontal" s-rendering="text"
+b-include-home="FALSE" b-include-up="FALSE" u-page s-target startspan --><nobr>[&nbsp;<a href="dissertation1.htm" target="">Doctoral&nbsp;Dissertation</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="ACS1.htm" target="">ACS&nbsp;Award&nbsp;1966</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="Nobel_Prize1.htm" target="">Nobel&nbsp;Prize</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="scifi.htm" target="">SciFi&nbsp;&nbsp;Author</a>&nbsp;]</nobr> <nobr>[&nbsp;Famous&nbsp;B-Days&nbsp;]</nobr><!--webbot bot="Navigation" endspan i-checksum="5607" -->
+</b></p>
+<table border="1" cellspacing="0" cellpadding="0" style="margin-left:113.15pt;
+ border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-padding-alt:0in 5.4pt 0in 5.4pt">
+  <tr style="height:60.25pt">
+    <td width="587" valign="top" style="width:440.6pt;border:solid windowtext .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:60.25pt" align="left">
+      <h2><span style="font-family: Garamond; font-weight: normal; mso-bidi-font-weight: bold"><font size="4">So
+      how famous is Stan Thompson?&nbsp; When in doubt, <span style="font-family: Garamond; font-weight: normal; mso-bidi-font-weight: bold; font-style: normal">judge
+      a man's fame by the letter of his parking permit and where his birthday is
+      recorded.</span><span style="mso-spacerun: yes; font-family: Garamond; font-weight: normal; mso-bidi-font-weight: bold">&nbsp;
+      </span>Look in the month of March for Stan Thompson.<span style="font-family:Garamond;font-weight:normal;mso-bidi-font-weight:bold">
+      </span><span style="mso-bidi-font-size: 10.0pt; font-family: Garamond; color: red; font-weight: normal; mso-bidi-font-weight: bold; font-style: normal; mso-bidi-font-style: italic">Webmaster</span></font></span><span style="font-size:14.0pt;
+  mso-bidi-font-size:10.0pt;font-family:Garamond;font-weight:normal;mso-bidi-font-weight:
+  bold"><o:p></o:p></span></h2>
+    </td>
+  </tr>
+</table>
+<div style="mso-element:frame;mso-element-wrap:auto;mso-element-anchor-vertical:
+paragraph;mso-element-anchor-horizontal:column;mso-element-left:right;
+mso-element-top:.05pt;mso-height-rule:exactly">
+</div>
+<p class="MsoNormal" align="center"><!--[if gte vml 1]><v:line
+ id="_x0000_s1026" style='position:absolute;left:0;text-align:left;z-index:1;
+ mso-position-horizontal-relative:text;mso-position-vertical-relative:text'
+ from="0,12pt" to="468pt,12.05pt" o:allowincell="f" strokecolor="#d4d4d4"
+ strokeweight="2pt">
+ <v:shadow on="t" origin=",32385f" offset="0,-1pt"/>
+</v:line><![endif]--><![if !vml]><span style="mso-ignore:vglayout;position:
+relative;z-index:0;left:-3px;top:12px;width:631px;height:20px"><img src="Sci%20B-Days_files/image006.gif" v:shapes="_x0000_s1026" width="631" height="8"></span><![endif]><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></p>
+<p align="center"><a name="_Toc458353280"></a><a name="_Toc459053692"></a><a name="_Toc459223959"></a><a name="_Toc459224156"></a><a name="_Toc459224479"></a><a name="_Toc459363230"></a><a name="_Toc459385157"></a><a name="_Toc460585080"></a><a name="_Toc460650409"><span style="color: navy; mso-bookmark: _Toc458353280"><font face="Garamond" size="5"><b><i>BIRTHDAYS
+OF SCIENTISTS</i></b></font></span></a><span style="color:navy"><o:p></o:p></span>
+<p class="MsoNormal" align="center"><!--[if gte vml 1]><v:line
+ id="_x0000_s1027" style='position:absolute;left:0;text-align:left;z-index:2;
+ mso-position-horizontal-relative:text;mso-position-vertical-relative:text'
+ from="0,12pt" to="468pt,12.05pt" o:allowincell="f" strokecolor="#d4d4d4"
+ strokeweight="0">
+ <v:shadow on="t" origin=",32385f" offset="0,-1pt"/>
+</v:line><![endif]--><![if !vml]><span style="mso-ignore:vglayout;position:
+relative;z-index:1;left:-2px;top:13px;width:629px;height:19px"><img src="Sci%20B-Days_files/image007.gif" v:shapes="_x0000_s1027" width="629" height="6"></span><![endif]><![if !supportEmptyParas]><br>
+&nbsp;<![endif]><o:p></o:p><font face="Garamond" size="3">(copied from <span class="HTMLMarkup"><a href="http://www.woodrow.org/teachers/ci/1992/activities/birthdays.html" target="_blank">http://www.woodrow.org/teachers/ci/1992/activities/birthdays.html</a>)</span></font><br style="mso-ignore:vglayout" clear="ALL">
+</p>
+<p class="MsoNormal" align="center"><a name="_Toc459053693"></a><a name="_Toc459224157"></a><a name="_Toc459224480"><span style="color: black; mso-bookmark: _Toc459053693"><font size="4">January</font></span></a><span style="color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Eugene A.
+      Demarcay, 1852<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">2</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Roger Adams,
+      1889<br>
+      Charles Hatchett, 1765<br>
+      Rudolph Clausius, 1822<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">4<o:p></o:p></span></p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Astrid
+      V. Grosse, 1905<br>
+      Joseph Elanger, 1874<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">5</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">George W.
+      Carver, 1943<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John V. N.
+      Dorr, 1872<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">7</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Henry E.
+      Roscoe, 1833<br>
+      Eilhardt Mitscherlich, 1794<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Soren P. L.
+      Sorensen, 1868<br>
+      H. Gobind Khorana, 1922<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frederick G.
+      Cottrell, 1877<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">11</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frederick M.
+      Becket, 1875<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Ruth R.
+      Benerito, 1916<br>
+      Konrad Bloch, 1912<br>
+      Antonia de Ulloa, 1716<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">13<o:p></o:p></span></p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Pierre
+      J. Robiquet, 1780<br>
+      Charles F. Mabery, 1850<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Francis D.
+      Dodge, 1868<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">15</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William
+      Prout, 1785<br>
+      Artturi I. Virtanen, 1895<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Anders G.
+      Ekeberg, 1767<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Robert Hare,
+      1781<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edward
+      Frankland, 1825<br>
+      Hans Goldschmidt, 1861<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Harry L.
+      Fisher, 1885<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Adolph
+      Frank, 1834<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edward
+      Mallinckrodt, 1845<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Henri Erni,
+      1822<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John C.
+      Polanyi, 1929<br>
+      Paul Langvin, 1872<br>
+      Otto Diels, 1876<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Morris W.
+      Travers, 1872<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William D.
+      Horne, 1865<br>
+      Robert Boyle, 1627<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">26<o:p></o:p></span></p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Claude
+      S. Hudson, 1881<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">27<o:p></o:p></span></p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Louis
+      A. Kahlenberg, 1870<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Henry C.
+      Bolton, 1843<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">29</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edward
+      Morley, 1838<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">30</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">George G.
+      Henderson, 1862<br>
+      Harold Booth, 1891<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">31</p>
+    </td>
+    <td width="518" style="width:5.4in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Theodore W.
+      Richards, 1868<br>
+      Irving Langmuir, 1881<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053694"></a><a name="_Toc459224158"></a><a name="_Toc459224481"><span style="color: black; mso-bookmark: _Toc459053694">February</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Emilio Segre,
+      1905<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">4</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Paul Darrer,
+      1889<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William P.
+      Murphy, 1892<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">7</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Demitri I.
+      Mendeleev, 1834<br>
+      John B. F. Herreshoff, 1850<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Moses
+      Gomberg, 1866<br>
+      Bernard Coutois, 1777<br>
+      Francis R. Japp, 1848<br>
+      Freidlieb F. Runge, 1795<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">9</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edward C. C.
+      Baly, 1871<br>
+      Lloyd N. Ferguson, 1918<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Ira Remsen,
+      1846<br>
+      John Enders, 1897<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">11</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Josiah W.
+      Gibbs, 1839<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">12<o:p></o:p></span></p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Moritz
+      Traube, 1826<br>
+      Pierre L. DuLong, 1785<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">13</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Henry C.
+      Pearson, 1858<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Herbert A.
+      Hauptman, 1917<br>
+      Evan J. Crane, 1889<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">15<o:p></o:p></span></p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Hans
+      K. A. S. von EulerChelpin, 1873<br>
+      Charles Thomas, 1900<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frederich K.
+      Beilstein, 1838<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Ferdinand
+      Reich, 1799<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Svante A.
+      Arrhenius, 1859<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Robert
+      Huber, 1937<br>
+      Isaac Adams, Jr, 1836<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Oliver W.
+      Gibbs, 1822<br>
+      John Mercer, 1791<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Johannes N.
+      Bronsted, 1879<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Casimir
+      Funk, 1884<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Karl Graebe,
+      1841<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Ida E.
+      Noddack, 1896<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">26</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William J.
+      Sparks, 1905<br>
+      Herbert H. Dow, 1866<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John Gorham,
+      1783<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="49" style="width:37.0pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="575" style="width:430.95pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Linus C.
+      Pauling, 1901<br>
+      Edmond Fremy, 1814<br>
+      Philip Hech, 1896<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053695"></a><a name="_Toc459224159"></a><a name="_Toc459224482"><span style="color: black; mso-bookmark: _Toc459053695">March</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Archer J. P.
+      Martin, 1910<br>
+      Edward Franklin, 1862<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">3</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Arthur
+      Kornberg, 1918<br>
+      Andreas S. Marggaf, 1709<br>
+      Gregory P. Baxter, 1876<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">7</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John F. W.
+      Herschel, 1792<br>
+      Ludwig Mond, 1839<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Antoine C.
+      Becquerel, 1788<br>
+      Edward C. Kendall, 1886<br>
+      Otto Hahn, 1879<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span style="background:yellow;mso-highlight:yellow">9</span></p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edward G.
+      Acheson, 1856<br>
+      <span style="background:yellow;mso-highlight:yellow">Stanley G. Thompson,
+      1912</span><br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Jeremias B.
+      Richter, 1762<br>
+      <span class="HTMLMarkup">&lt;WILLIAM 1851&gt;</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">11<o:p></o:p></span></p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Henri
+      E. S. Deville, 1818<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William H.
+      Perkin, 1838<br>
+      John F. Daniell, 1790<br>
+      Charles Friedel, 1832<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">13</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Joseph
+      Priestley, 1733<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Paul
+      Ehrlich, 1854<br>
+      Thomas L. Willson, 1860<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Hermann W.
+      Vogel, 1834<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Carl Lowig,
+      1803<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Lauren B.
+      Hictchcock, 1900<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Walter N.
+      Haworth, 1883<br>
+      Frederic J. Joliot, 1900<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles W.
+      Eliot, 1834<br>
+      Torbern Bergman, 1735<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">George W.
+      Rains, 1817<br>
+      William Gilbert, 1932<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">22<o:p></o:p></span></p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Robert
+      A. Millikan, 1868<br>
+      Pierre J. Pelletier, 1788<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Hermann
+      Staudinger, 1881<br>
+      Charles L. Parsons, 1867<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William
+      Frear, 1860<br>
+      William Brownrigg, 1711<br>
+      Adolf F. J. Butenandt, 1903<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">26</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Benjamin
+      Thompson (Count Rumford), 1753<br>
+      A. Crum Brown, 1838<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Wilhelm K.
+      Roentgen, 1854<br>
+      Otto Wallach, 1847<br>
+      Johann W. Hittorf, 1824<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frederick C.
+      Accum, 1769<br>
+      George C. Pond, 1861<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">29</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Herrick L.
+      Johnston, 1898<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="46" style="width:34.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">31</p>
+    </td>
+    <td width="578" style="width:433.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Thomas
+      Clark, 1801<br>
+      Robert Bunsen, 1811<br>
+      W. Lawrence Bragg, 1890<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053696"></a><a name="_Toc459224160"></a><a name="_Toc459224483"><span style="color: black; mso-bookmark: _Toc459053696">April</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Richard A.
+      Zsigmondy, 1865<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">2</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Carl L.
+      Alsberg<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">5</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Baron Joseph
+      Lister, 1827<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">James D.
+      Watson, 1928<br>
+      William H. Wollaston, 1766<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Melvin
+      Calvin, 1911<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Robert B.
+      Woodward, 1917<br>
+      Arnold O. Beckman, 1900<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">11</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Otto F.
+      Meyerhof<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Georges
+      Urbain, 1872<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William
+      Cullen, 1710<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">15</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Sidney G.
+      Thomas, 1850<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Joseph
+      Black, 1728<br>
+      Marie M. Daly, 1921<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">W. Albert
+      Noyes, Jr, 1898<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Marston T.
+      Bogart, 1868<br>
+      Samuel C. Hooker, 1864<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Glenn T.
+      Seaborg, 1912<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Paul Karrer,
+      1889<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Percy W.
+      Bridgman, 1882<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">22<o:p></o:p></span></p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Max
+      K. E. L. Planck, 1859<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">24<o:p></o:p></span></p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Jean
+      C. de Marignac, 1817<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Wolfgang
+      Pauli, 1900<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Wallace
+      Carothers, 1896<br>
+      Phillip H. Abelson, 1913<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Franz K.
+      Achard, 1753<br>
+      Harold C. Urey, 1893<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">30</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Percy L.
+      Julian, 1899<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053697"></a><a name="_Toc459224161"></a><a name="_Toc459224484"><span style="color: black; mso-bookmark: _Toc459053697">May</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Alexander W.
+      Williamson, 1824<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">2</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Austin McD.
+      Patterson, 1876<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">3</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">F. A. Gooch,
+      1852<br>
+      Hermann Mark, 1895<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">4</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Louis J.
+      Thenard, 1777<br>
+      Arthur A. Blanchard, 1876<br>
+      Wilbur O. Atwater, 1844<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">5</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John W.
+      Draper, 1811<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">6<o:p></o:p></span></p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Jean
+      Senebier, 1742<br>
+      Julius B. Cohen, 1859<br>
+      Francois Grignard, 1871<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">7</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Sidney
+      Altman, 1939<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Richard B.
+      Moore, 1871<br>
+      Nevil V. Sigwick, 1873<br>
+      Bohuslav Brauner, 1855<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">9<o:p></o:p></span></p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">James
+      C. Irvine, 1877<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Francois M.
+      Raoult, 1830<br>
+      Edward Weston, 1850<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">11</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Donald F.
+      Othmer, 1904<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Justus von
+      Liebig, 1802<br>
+      William F. Glauque, 1895<br>
+      Dorothy Crowfoot Hodgkin, 1910<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">16<o:p></o:p></span></p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Pierre
+      Curie, 1859<br>
+      Nicolas-Louis Vauquelin, 1763<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Thomas
+      Midgley, Jr. 1889<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Francis O.
+      Rice, 1890<br>
+      John J. Abel, 1857<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edward
+      Buchner, 1860<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Antoine A.
+      B. Bussy, 1794<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Gabriel D.
+      Farenheit, 1686<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Lars F.
+      Nilson, 1840<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">26</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John C.
+      Bailar, Jr., 1904<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">28<o:p></o:p></span></p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Kasmir
+      Fajans, 1887<br>
+        <o:p></o:p></span></p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]><o:p></o:p></span></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053698"></a><a name="_Toc459224162"></a><a name="_Toc459224485"><span lang="FR" style="color: black; mso-ansi-language: FR; mso-bookmark: _Toc459053698">June</span></a></font><span lang="FR" style="font-size:10.0pt;color:black;mso-ansi-language:FR"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span></span><span
+  lang=FR style='color:black;mso-ansi-language:FR'>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]--><span lang="FR" style="mso-ansi-language:FR">4<o:p></o:p></span></p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Georg
+      Brandt, 1694<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">5</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William H.
+      Stein, 1911<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">7</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Walther H.
+      Nernst, 1864<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Alexis
+      Carrel, 1873<br>
+      Francis H. C. Crick, 1916<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">9</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Herbert B.
+      Baker, 1862<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">11</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frederick G.
+      Keyes, 1885<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Howell
+      Furman, 1892<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">13</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Paul J.
+      Flory, 1910<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Sir Cyril N.
+      Hinshelwood, 1897<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">15</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William
+      Crookes, 1832<br>
+      Charles Baskerville, 1870<br>
+      Byron Riegel, 1960<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Samuel C.
+      Lind, 1879<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Jerome Karle,
+      1918<br>
+      Dudley R. Herschback, 1932<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles A.
+      Goessmann, 1827<br>
+      Karl Landsteiner, 1868<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Fritz A.
+      Lipmann, 1899<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">24<o:p></o:p></span></p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Karl
+      von Linde, 1842<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Robert S.
+      Mulliken, 1896<br>
+      Hermann von Fehling, 1812<br>
+      Johan Gadolin, 1760<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">26</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Lord Kelvin,
+      1824<br>
+      Heninrich O. Wieland, 1877<br>
+      Jean A. C. Chaptal, 1756<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Otto Loewi,
+      1873<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">29</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Nils G.
+      Setstrom, 1787<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="57" style="width:42.6pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">30</p>
+    </td>
+    <td width="567" style="width:425.35pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Paul Berg,
+      1926<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="5"><a name="_Toc459053699"></a></font><font size="4"><a name="_Toc459224163"></a><a name="_Toc459224486"><span style="color: black; mso-bookmark: _Toc459053699">July</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Gerald M.
+      Edlman, 1929<br>
+      Claude Bernard, 1813<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">4</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Selman A.
+      Waksman, 1888<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Vladimir
+      Prelog, 1906<br>
+      James C. Booth, 1810<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William deW.
+      Abney, 1843<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">George
+      Eastman, 1854<br>
+      Elias J. Corey, 1928<br>
+      Henri V. Regnault, 1810<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">13<o:p></o:p></span></p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Jean
+      B. A. Dumas, 1800<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Albert
+      Ghiorso, 1915<br>
+      Paul Walden, 1853<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">15</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edward R.
+      Weidlein, 1887<br>
+      Stanislao Cannizzaro, 1826<br>
+      Robert B. Merrifield, 1921<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Roald
+      Hoffmann, 1937<br>
+      Hartmut Michel, 1948<br>
+      Kurt Alder, 1902<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John H.
+      Northrop, 1891<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Herbert S.
+      Gasser, 1888<br>
+      Ernst Beckmann, 1853<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Joseph M. F.
+      Lassone, 1717<br>
+      Emma P. Carr, 1880<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William H.
+      Bragg, 1862<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Rosalind
+      Franklin, 1920<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Hans
+      Fischer, 1881<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Albert
+      Ladenberg, 1842<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">30</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Friedrich
+      Wohler, 1800<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">31</p>
+    </td>
+    <td width="499" style="width:5.2in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frederick A.
+      Abe., 1827<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053700"></a><a name="_Toc459224164"></a><a name="_Toc459224487"><span style="color: black; mso-bookmark: _Toc459053700">August</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Georg von
+      Hevesy, 1885<br>
+      Joseph H. Gilbert, 1817<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">2</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Leopold
+      Gmelin, 1788<br>
+      Freidrich Stomeyer, 1776<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Alexander
+      Fleming,1881<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Ameadeo
+      Avogadro, 1776<br>
+      Ernest O. Laerence, 1901<br>
+      Benjamin Silliman, 1779<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">10<o:p></o:p></span></p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Arne
+      W. K. Tiselius, 1902<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">11</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Harold B.
+      Dixon, 1852<br>
+      Erwin Chargaff, 1905<br>
+      Aaron Klug, 1926<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">James
+      Muspratt, 1793<br>
+      Erwin Schrodinger, 1887<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">13</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frederick
+      Sanger, 1918<br>
+      Slavador Luria, 1912<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Hans C.
+      Oersted, 1777<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">15</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Gerty T.Cori,
+      1896<br>
+      Sir William A. Tilden, 1842<br>
+      Charles A. Kraus, 1875<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Wendell M.
+      Stanley, 1904<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Walter K. F.
+      Noddack, 1893<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Johan G.
+      Gahn, 1745<br>
+      Lother Meryer, 1830<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Jons J.
+      Berzelius, 1779<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Warren K.
+      Lewis, 1882<br>
+      Jean S. Stas, 1813<br>
+      Charles F. Gerhardt, 1816<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Willis R.
+      Whitney, 1868<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Bradley
+      Dewey, 1887<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Morris S.
+      Kharasch, 1895<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Hand A.
+      Krebs, 1900<br>
+      Frederick C. Robbins, 1916<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">26<o:p></o:p></span></p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Antoine
+      L. Lavoiser, 1743<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Carl Bosch,
+      1874<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Geroge H.
+      Whipple, 1878<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">29</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Hermann J.
+      P. Sprengel, 1834<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">30</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Theodor
+      Svedberg, 1884<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="58" style="width:.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">31</p>
+    </td>
+    <td width="538" style="width:5.6in;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Michel E.
+      Cheveul, 1786<br>
+      Frederick A. Paneth, 1887<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053701"></a><a name="_Toc459224165"></a><a name="_Toc459224488"><span style="color: black; mso-bookmark: _Toc459053701">September</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Carl Auer
+      von Welsbach, 1858<br>
+      Francis, W. Aston, 1877<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">2</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Frecerick
+      Soddy, 1877<br>
+      Wilhelm Ostwald, 1853<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">3</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Fritz Pregi,
+      1869<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John Dalton,
+      1776<br>
+      Frederick G. Donnan<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">7</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">August
+      Kekule, 1829<br>
+      John W. Cornforth, 1917<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Viktor
+      Meyer, 1848<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Carl G.
+      Mosander, 1797<br>
+      John Kidd, 1775<br>
+      Arthur H. Compton, 1892<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">11<o:p></o:p></span></p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Carl
+      S. Marvel, 1894<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">12<o:p></o:p></span></p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Irene
+      Joliot-Curie, 1897<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">13<o:p></o:p></span></p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Sir
+      Robert Robinson, 1886<br>
+      Leopold W. G. Ruzicka, 1887<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">14<o:p></o:p></span></p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Charles
+      F. de Cisternay DuFay, 1698<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Albert
+      Szent-Gyorgyi, 1893<br>
+      <span class="HTMLMarkup">&lt;ALBRECHT 1853&gt;</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edwin M.
+      McMillian, 1907<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">James Dewar,
+      1842<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Louis P.
+      Calletet, 1832<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Michael
+      Faraday, 1791<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John
+      Sheehan, 1915<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Alexander
+      Findlay, 1874<br>
+      Andre F. Courmand, 1895<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Thomas H.
+      Morgan, 1866<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">26</p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Archibald B.
+      Hill, 1886<br>
+      Joseph L. Proust, 1754<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">27<o:p></o:p></span></p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Adolf
+      W. H. Kolbe, 1818<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">28<o:p></o:p></span></p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Henri
+      Moissan, 1852<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50" style="width:37.8pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">30<o:p></o:p></span></p>
+    </td>
+    <td width="574" style="width:430.15pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Antoine
+      J. Balard, 1802<br>
+      Jean-Marie P. Lehn,1939<br>
+      Johann Diesenhofer, 1943<br>
+        <o:p></o:p></span></p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]><o:p></o:p></span></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053702"></a><a name="_Toc459224166"></a><a name="_Toc459224489"><span style="color: black; mso-bookmark: _Toc459053702">October</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Georg Bredig,
+      1868<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">2</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William
+      Ramsay, 1852<br>
+      Alexis T. Petit, 1791<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">3</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles J.
+      Pederson, 1904<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">4</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Kenichi
+      Fukui, 1918<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">5</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Dirk Coster,
+      1889<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">6<o:p></o:p></span></p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Neils
+      Bohr, 1885<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">8<o:p></o:p></span></p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Otto
+      H. Warburg, 1883<br>
+      Henri Le Chatelier, 1850<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">9<o:p></o:p></span></p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Emil
+      H. Fischer, 1852<br>
+      Max von Laue, 1879<br>
+      Pierre J. Macquer, 1718<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">10</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Henry
+      Cavendish, 1731<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">11</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Freidrich
+      Bergius, 1884<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Arthur
+      Harden, 1865<br>
+      J. P. Cooke, 1827<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Friedrich W.
+      G. Kohlrausch, 1840<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Henry C.
+      Sherman, 1875<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Harvey W.
+      Wiley, 1844<br>
+      <span class="HTMLMarkup">&lt;CHRISTIAN 1799&gt;</span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Robert B.
+      Owens, 1870<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">James
+      Chadwick, 1891<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Alfred
+      Nobel, 1833<br>
+      Georg E. Stahl, 1660<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">George
+      Beadle, 1903<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Gilbert N.
+      Lewis, 1875<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Roger C.
+      Wells, 1877<br>
+      Hendrick W. B. Roozeboom, 1854<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Edgar C.
+      Britton, 1891<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">John E.
+      Lennard-Jones, 1894<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Zygmunt F.
+      von Wroblewski, 1845<br>
+      Richard L. M. Synge, 1914<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">29</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Marcellin P.
+      E. Berthelot, 1827<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">30</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Gerhard
+      Domagk, 1895<br>
+      Hermann F. M. Kopp, 1817<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">31<o:p></o:p></span></p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Adol
+      von Baeyer, 1835<br>
+        <o:p></o:p></span></p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]><o:p></o:p></span></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053703"></a><a name="_Toc459224167"></a><a name="_Toc459224490"><span style="color: black; mso-bookmark: _Toc459053703">November</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->3</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Daniel R.
+      Lutherford, 1749<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">4</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles L.
+      Reese, 1862<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">4</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Neil K.
+      Adam, 1891<br>
+      Paul Sabatier, 1854<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Sir Ian M.
+      Heilbron, 1886<br>
+      William A. Noyes, 1857<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">7<o:p></o:p></span></p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Marja
+      (Marie) S. Curie<br>
+      Lise Meitner, 1878<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">9</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Ronald G. W.
+      Norrish,m 1897<br>
+      Vladimir N. Iptieff, 1867<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">10<o:p></o:p></span></p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Andres
+      M. Del Rio, 1764<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Lord John W.
+      S. Rayleigh, 1842<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">13</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">James C.
+      Maxwell, 1831<br>
+      Edward A. Dolsy<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Leo
+      Baekeland, 1863<br>
+      August Laurent, 1807<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">15</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">St. Albertus
+      Magnus, 1193<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Joel H.
+      Hildebrand, 1881<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">George T.
+      Beiby, 1850<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Lawrence E.
+      Glendenin, 1918<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">James B.
+      Sumner, 1887<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Hieronymus
+      T. Richter, 1824<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Johannes D.
+      van der Waals, 1837<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Julius R.
+      von Mayer, 1814<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">26</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles A.
+      Wurtz, 1817<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Lars
+      Onsager, 1903<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">28<o:p></o:p></span></p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Maurice
+      Arveson, 1902<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">29<o:p></o:p></span></p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Yuan
+      T. Les, 1936<br style="mso-special-character:
+  line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="55" style="width:41.55pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">30</p>
+    </td>
+    <td width="569" style="width:426.4pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Henry Taube,
+      1915<br>
+      Smithson Tennant, 1761<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><br>
+<br style="mso-special-character:line-break">
+  <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+  <![endif]></p>
+<p class="H3" align="center" style="text-align:center;mso-outline-level:1"><font size="4"><a name="_Toc459053704"></a><a name="_Toc459224168"></a><a name="_Toc459224491"><span style="color: black; mso-bookmark: _Toc459053704">December</span></a></font><span style="font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<table border="0" cellspacing="0" cellpadding="0" style="margin-left:.4pt;border-collapse:
+ collapse;mso-padding-alt:0in 0in 0in 0in">
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-begin'></span>PRIVATE</span><![endif]--><!--[if supportFields]><span
+  style='color:black'><span style='mso-element:field-end'></span></span><![endif]-->1</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Martin H.
+      Kalproth, 1743<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">3</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Richard
+      Kuhn, 1900<br>
+      Carl M. G. Sigbahn, 1886<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">4</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles H.
+      Herty, 1867<br>
+      Alfred D. Hershey, 1908<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">5</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Carl F.
+      Cori, 1896<br>
+      Werner Heisenberg, 1901<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">6</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles M.
+      Hall, 1863<br>
+      Joseph L. Gay-Lussac, 1778<br>
+      Rev. William Gregor, 1761<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">7</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Theodor
+      Schwann, 1810<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">8</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Eugene C.
+      Bingham, 1878<br>
+      Sir Thomas E. Thorpe, 1845<br>
+      Thomas Cech, 1947<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">9<o:p></o:p></span></p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center"><span lang="FR" style="mso-ansi-language:FR">Fritz
+      Haber, 1868<br>
+      Comte Claude L. Berthollet, 1748<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]><o:p></o:p></span></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">12</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Alfred
+      Werner, 1866<br>
+      William Henry, 1775<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">13</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Kristian
+      Birkeland, 1867<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">14</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">E. L. Tatum,
+      1909<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">15</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Antoine H.
+      Becquerel, 1852<br>
+      Johann W. Dobereiner, 1780<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">16</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Johann W.
+      Ritter, 1776<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">17</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Willard F.
+      Libby, 1908<br>
+      Humjphry Davy, 1778<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">18</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Joseph J.
+      Thomson, 1856<br>
+      Mary L. Caldwell, 1890<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">19</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Karl W.
+      Scheele, 1742<br>
+      Thomas Andrews, 1813<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Jaroslav
+      Heyrovsky, 1890<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">21</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Thomas
+      Graham, 1805<br>
+      Hermann J. Muller, 1890<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">22</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">William L.
+      Evans, 1870<br>
+      St. Elmo Brady, 1884<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">23</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Aaxel F.
+      Cronstedt, 1722<br>
+      Paul Schutzenberger, 1829<br>
+      Anna J. Harrison, 1912<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">24</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Benjamin
+      Rush, 1745<br>
+      James P. Joule, 1818<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">25</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Adolf
+      Windaus, 1876<br>
+      Gerhard Herzberg, 1904<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">26</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Clemens A.
+      Winkler, 1838<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">27</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Louis
+      Pasteur, 1822<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">28</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Karl R.
+      Fresenius, 1818<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">20</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Charles
+      Goodyear, 1800<br>
+      Alexander Parkes, 1813<br style="mso-special-character:line-break">
+        <![if !supportLineBreakNewLine]><br style="mso-special-character:line-break">
+        <![endif]></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="54" style="width:40.5pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">31</p>
+    </td>
+    <td width="570" style="width:427.45pt;padding:0in 0in 0in 0in">
+      <p class="MsoNormal" align="center" style="text-align:center">Colin G.
+      Fink, 1881<br>
+      </p>
+    </td>
+  </tr>
+</table>
+<p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:18.0pt;mso-bidi-font-size:10.0pt"><![endif]><o:p></o:p></span></p>
+<p class="MsoNormal" align="center" style="text-align:center"><!--[if gte vml 1]><v:line
+ id="_x0000_s1028" style='position:absolute;left:0;text-align:left;z-index:3;
+ mso-position-horizontal-relative:text;mso-position-vertical-relative:text'
+ from="0,12pt" to="468pt,12.05pt" o:allowincell="f" strokecolor="#d4d4d4"
+ strokeweight="0">
+ <v:shadow on="t" origin=",32385f" offset="0,-1pt"/>
+</v:line><![endif]--><![if !vml]><span style="mso-ignore:vglayout;position:
+relative;z-index:2;left:-2px;top:13px;width:629px;height:19px"><img src="Sci%20B-Days_files/image009.gif" v:shapes="_x0000_s1028" width="629" height="6"></span><![endif]><![if !supportEmptyParas]>&nbsp;<span style="font-size:18.0pt;mso-bidi-font-size:10.0pt"><o:p></o:p></span></p>
+<p class="Address" align="center" style="margin-top:5.0pt;margin-right:0in;
+margin-bottom:5.0pt;margin-left:0in;text-align:center"><span style="font-size:
+18.0pt;mso-bidi-font-size:10.0pt;color:black">Woodrow Wilson Leadership Program
+in Chemistry </span><!--[if supportFields]><span style='font-size:18.0pt;
+mso-bidi-font-size:10.0pt;color:black'><span style='mso-element:field-begin'></span>PRIVATE
+&quot;TYPE=PICT;ALT=*&quot;</span><![endif]--><!--[if supportFields]><span
+style='font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black'><span
+style='mso-element:field-end'></span></span><![endif]--><span style="font-size:
+18.0pt;mso-bidi-font-size:10.0pt;color:black"><!--[if gte vml 1]><v:shape id="_x0000_i1035"
+ type="#_x0000_t75" style='width:6pt;height:7.5pt' fillcolor="window">
+ <v:imagedata src="Sci%20B-Days_files/image010.gif" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img src="Sci%20B-Days_files/image010.gif" v:shapes="_x0000_i1035" width="8" height="10"><![endif]></span><a href="mailto:lpt@www.woodrow.org">lpt@www.woodrow.org</a><span style="font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black"><br>
+The Woodrow Wilson National Fellowship Foundation </span><!--[if supportFields]><span
+style='font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black'><span
+style='mso-element:field-begin'></span>PRIVATE &quot;TYPE=PICT;ALT=*&quot;</span><![endif]--><!--[if supportFields]><span
+style='font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black'><span
+style='mso-element:field-end'></span></span><![endif]--><span style="font-size:
+18.0pt;mso-bidi-font-size:10.0pt;color:black"><!--[if gte vml 1]><v:shape id="_x0000_i1036"
+ type="#_x0000_t75" style='width:6pt;height:7.5pt' fillcolor="window">
+ <v:imagedata src="Sci%20B-Days_files/image010.gif" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img src="Sci%20B-Days_files/image010.gif" v:shapes="_x0000_i1036" width="8" height="10"><![endif]></span><a href="mailto:webmaster@woodrow.org">webmaster@woodrow.org</a><span style="font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black"><br>
+CN 5281, Princeton NJ 08543-5281 </span><!--[if supportFields]><span
+style='font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black'><span
+style='mso-element:field-begin'></span>PRIVATE &quot;TYPE=PICT;ALT=*&quot;</span><![endif]--><!--[if supportFields]><span
+style='font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black'><span
+style='mso-element:field-end'></span></span><![endif]--><span style="font-size:
+18.0pt;mso-bidi-font-size:10.0pt;color:black"><!--[if gte vml 1]><v:shape id="_x0000_i1037"
+ type="#_x0000_t75" style='width:6pt;height:7.5pt' fillcolor="window">
+ <v:imagedata src="Sci%20B-Days_files/image010.gif" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img src="Sci%20B-Days_files/image010.gif" v:shapes="_x0000_i1037" width="8" height="10"><![endif]>Tel:(609)452-7007
+</span><!--[if supportFields]><span style='font-size:18.0pt;mso-bidi-font-size:
+10.0pt;color:black'><span style='mso-element:field-begin'></span>PRIVATE
+&quot;TYPE=PICT;ALT=*&quot;</span><![endif]--><!--[if supportFields]><span
+style='font-size:18.0pt;mso-bidi-font-size:10.0pt;color:black'><span
+style='mso-element:field-end'></span></span><![endif]--><span style="font-size:
+18.0pt;mso-bidi-font-size:10.0pt;color:black"><!--[if gte vml 1]><v:shape id="_x0000_i1038"
+ type="#_x0000_t75" style='width:6pt;height:7.5pt' fillcolor="window">
+ <v:imagedata src="Sci%20B-Days_files/image010.gif" o:title=""/>
+</v:shape><![endif]--><![if !vml]><img src="Sci%20B-Days_files/image010.gif" v:shapes="_x0000_i1038" width="8" height="10"><![endif]>Fax:(609)452-0066<o:p></o:p></span>
+&nbsp;
+
+<!--msnavigation--></td></tr><!--msnavigation--></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td>
+
+<hr>
+<p align="center"><b><font size="2"><font color="#666600"><nobr>[&nbsp;<a href="./" target="">Home</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="Introduction.htm" target="">Up</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="search.htm" target="">Search</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="contents.htm" target="">Contents</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="periodic_tables.htm" target="">Periodic&nbsp;Tables</a>&nbsp;]</nobr></font><br>
+<nobr>[&nbsp;<a href="Introduction.htm" target="">Mild&nbsp;Introduction</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="A_Chemists_Chemist/Chemist_Chemist.htm" target="">Chemist&#39;s&nbsp;Chemist</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="atomic_bomb.htm" target="">Manhattan&nbsp;Project</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="social_life.htm" target="">Seaborg&#39;s&nbsp;Journals</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="non-Conciliatory.htm" target="">Unexpurgated</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="photo_gallery.htm" target="">Photo&nbsp;Gallery</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="t_shirts%20and%20poster.htm" target="">T&nbsp;Shirts</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="links.htm" target="">Links</a>&nbsp;]</nobr> <nobr>[&nbsp;<a href="why.htm" target="">Swan&nbsp;Song</a>&nbsp;]</nobr></font></b>
+<p align="center"><b><font size="2">The Internet is a wonderful vanity press. It
+is a bully pulpit that costs the author of a website almost nothing. Therefore,
+it falls on the reader to exercise increased vigilence while browsing websites
+because the the layers of &quot;editors&quot; and &quot;publishers&quot; have
+been removed from the information transfer process and so that anybody can say
+most anything without regard for the facts or truth. This website is no
+exception. For that reason, I have tried to provide copies of enough of the
+original materials so that the reader can make his or her own interpretations of the
+source documents that led me to the conclusions expressed here.&nbsp;</font></b>
+<p align="center">Last Edited 07/21/15 --Comments to <a href="mailto:bone1@bonestamp.com">Webmaster</a></p>
+
+</td></tr><!--msnavigation--></table></body>
+
+</html>
